@@ -54,6 +54,12 @@ body {
   border: 1px solid var(--highlight-color);
 }
 
+.headerimg {
+  max-width: 100%;
+  border-radius: 50%;
+  height: auto;
+}
+
 /*--------------------------------------------------------
 # download page boxbit
 --------------------------------------------------------*/
@@ -400,6 +406,7 @@ h6 {
   background: #1c1c1c;
   z-index: 997;
   padding: 10px 0;
+  border-bottom: 2px solid #F4C4A9;
 }
 
 /*#header.header-scrolled {
@@ -591,7 +598,7 @@ h6 {
   right: 0;
   left: 0;
   bottom: 0;
-  background: rgba(0, 0, 0, 0.8);
+  background: #1c1c1c;
   transition: 0.3s;
   z-index: 999;
 }
@@ -610,7 +617,7 @@ h6 {
   bottom: 15px;
   left: 15px;
   padding: 10px 0;
-  background-color: #000000;
+  background-color: #1c1c1c;
   overflow-y: auto;
   transition: 0.3s;
 }
@@ -908,6 +915,7 @@ section {
 
 .clients img {
   max-width: 45%;
+  border-radius: 50%;
   transition: all 0.4s ease-in-out;
   display: inline-block;
   padding: 15px 0;
