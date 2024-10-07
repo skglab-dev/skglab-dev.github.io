@@ -30,7 +30,7 @@ document.write('     </li> ');
 document.write('      </ul> ');
 document.write('      <p class="l-footer__copy">');
 document.write('        <large>Made with ♥️ by <a href="https://singkolab.github.io/">SingkoLab</a> & <a');
-document.write('        href="https://github.com/nullptr03">Andy</a><br><br class="is-sp">©2023 Singko Laboratory</large>');
+document.write('        href="https://github.com/nullptr03">Andy</a><br><br class="is-sp">©2024 Singko Laboratory</large>');
 document.write('      </p> ');
 document.write('     </div> ');
 document.write('    </div>');
