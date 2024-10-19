@@ -2,9 +2,11 @@
 footer
 ============================*/
 .l-footer {
-    position: relative;
+    position: absolute;
+    bottom: 0;
     background-color: #181818;
     padding: 10px 20px;
+    width: 100%;
 }
 
 .l-footer__wrap {
