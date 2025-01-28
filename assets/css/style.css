@@ -11,7 +11,7 @@
   /* dark background color */
   --text-color: #ccc;
   /* light text color */
-  --highlight-color: #f4c4a9;
+  --highlight-color: #00a47b;
   /* highlight color */
 
   /* define other variables for colors used in your code */
@@ -26,7 +26,7 @@ body {
 /* Works on Firefox */
 * {
   scrollbar-width: thin;
-  scrollbar-color: #b18a73 rgba(255, 255, 255, 0);
+  scrollbar-color: #007457 rgba(255, 255, 255, 0);
 }
 
 /* Works on Chrome, Edge, and Safari */
@@ -41,7 +41,7 @@ body {
 *::-webkit-scrollbar-thumb {
   background-color: rgba(255, 255, 255, 0);
   border-radius: 20px;
-  border: 3px solid rgb(51, 51, 51);
+  border: 3px solid #007457;
 }
 
 /* define styles for specific elements */
@@ -57,7 +57,7 @@ body {
   /* light background color */
   --text-color: #282c34;
   /* dark text color */
-  --highlight-color: #f4c4a9;
+  --highlight-color: #00a47b;
   /* highlight color */
 
   /* update other variables for colors used in your code */
@@ -86,7 +86,7 @@ body {
 --------------------------------------------------------*/
 
 .satanic {
-  border: 1px solid #f4c4a9;
+  border: 1px solid #00a47b;
   border-radius: 15px;
   padding: 10px;
 }
@@ -163,7 +163,7 @@ body {
   display: block;
   width: 0;
   height: inherit;
-  background-color: #f4c4a9;
+  background-color: #00a47b;
   /*linear-gradient(90deg, #00ffaa, #ff5e31, #032ad9, #0cb000);*/
 }
 
@@ -311,12 +311,12 @@ body {
 }
 
 a {
-  color: #f4c4a9;
+  color: #00a47b;
   text-decoration: none;
 }
 
 a:hover {
-  color: #f4c4a9;
+  color: #00a47b;
   text-decoration: none;
 }
 
@@ -384,7 +384,7 @@ h6 {
   width: 8px;
   height: 8px;
   border-radius: 50%;
-  background-color: #f4c4a9;
+  background-color: #00a47b;
   animation: animate-dot 1s ease-in-out infinite;
 }
 
@@ -427,11 +427,11 @@ h6 {
   background: #1c1c1c;
   z-index: 997;
   padding: 10px 0;
-  border-bottom: 2px solid #F4C4A9;
+  border-bottom: 2px solid #00a47b;
 }
 
 /*#header.header-scrolled {
-  border-color: #F4C4A9;
+  border-color: #00a47b;
 }*/
 
 #header .logo {
@@ -504,12 +504,12 @@ h6 {
 .navbar .active,
 .navbar .active:focus,
 .navbar li:hover>a {
-  color: #f4c4a9;
+  color: #00a47b;
 }
 
 .navbar .getstarted,
 .navbar .getstarted:focus {
-  background: #f4c4a9;
+  background: #00a47b;
   padding: 8px 20px;
   margin-left: 30px;
   border-radius: 4px;
@@ -519,7 +519,7 @@ h6 {
 .navbar .getstarted:hover,
 .navbar .getstarted:focus:hover {
   color: #ccc;
-  background: #f4c4a9;
+  background: #00a47b;
 }
 
 .navbar .dropdown ul {
@@ -554,7 +554,7 @@ h6 {
 .navbar .dropdown ul a:hover,
 .navbar .dropdown ul .active:hover,
 .navbar .dropdown ul li:hover>a {
-  color: #f4c4a9;
+  color: #00a47b;
 }
 
 .navbar .dropdown:hover>ul {
@@ -590,7 +590,7 @@ h6 {
 * Mobile Navigation 
 */
 .mobile-nav-toggle {
-  color: #f4c4a9;
+  color: #00a47b;
   font-size: 28px;
   cursor: pointer;
   display: none;
@@ -653,7 +653,7 @@ h6 {
 .navbar-mobile a:hover,
 .navbar-mobile .active,
 .navbar-mobile li:hover>a {
-  color: #f4c4a9;
+  color: #00a47b;
 }
 
 .navbar-mobile .getstarted,
@@ -688,7 +688,7 @@ h6 {
 .navbar-mobile .dropdown ul a:hover,
 .navbar-mobile .dropdown ul .active:hover,
 .navbar-mobile .dropdown ul li:hover>a {
-  color: #f4c4a9;
+  color: #00a47b;
 }
 
 .navbar-mobile .dropdown>.dropdown-active {
@@ -731,7 +731,7 @@ h6 {
 }
 
 #hero h2 {
-  color: #f4c4a9;
+  color: #c1c1c1;
   margin: 10px 0 0 0;
   font-size: 22px;
 }
@@ -793,7 +793,7 @@ h6 {
   transition: all 0.3s ease-in-out;
   font-size: 36px;
   line-height: 1;
-  color: #f4c4a9;
+  color: #00a47b;
 }
 
 #hero .icon-box:hover {
@@ -888,7 +888,7 @@ section {
   left: 0;
   top: 2px;
   font-size: 20px;
-  color: #f4c4a9;
+  color: #00a47b;
   line-height: 1;
 }
 
@@ -989,7 +989,7 @@ section {
 
 .testimonials .testimonial-item .quote-icon-left,
 .testimonials .testimonial-item .quote-icon-right {
-  color: #f4c4a9;
+  color: #00a47b;
   font-size: 26px;
 }
 
@@ -1039,25 +1039,25 @@ section {
   height: 12px;
   background-color: #1c1c1c;
   opacity: 1;
-  border: 1px solid #f4c4a9;
+  border: 1px solid #00a47b;
 }
 
 .testimonials .swiper-pagination .swiper-pagination-bullet-active {
-  background-color: #f4c4a9;
+  background-color: #00a47b;
 }
 
 /*----------------------------------------------------------
 # button theming
 ----------------------------------------------------------*/
 .btn-light-magenta {
-  background-color: #f4c4a9;
+  background-color: #00a47b;
   /* Set the background color to light magenta */
   color: #fff;
   /* Set the text color to white */
 }
 
 .btn-light-magenta:hover {
-  background-color: #ffaf81;
+  background-color: #007b5c;
   /* Set the background color to light magenta */
   color: #fff;
   /* Set the text color to white */
@@ -1087,7 +1087,7 @@ section {
   font-weight: 600;
   line-height: 1;
   text-transform: uppercase;
-  color: #f4c4a9;
+  color: #00a47b;
   margin-bottom: 5px;
   transition: all 0.3s ease-in-out;
 }

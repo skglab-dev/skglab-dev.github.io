@@ -52,7 +52,7 @@ footer
 }
 
 .l-footer__sns-link path {
-    fill: #F4C4A9;
+    fill: #00a47b;
     -webkit-transition: fill .3s ease;
     transition: fill .3s ease;
 }
