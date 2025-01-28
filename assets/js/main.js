@@ -2,6 +2,10 @@ function toggleDarkMode() {
   document.body.classList.toggle('dark-mode');
 }
 
+$(window).load(function() {
+  $(".loader").fadeOut("slow");
+});
+
 (function () {
   "use strict";
 
