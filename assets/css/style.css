@@ -1279,3 +1279,8 @@ section {
   z-index: 9999;
   background: url('../img/loading/Circles-menu-3.gif') 50% 50% no-repeat rgb(255,255,255);
 }
+
+.container-fluid {
+  padding-right: calc(var(--bs-gutter-x) * 1.5);
+  padding-left: calc(var(--bs-gutter-x) * 1.5);
+}
