@@ -205,7 +205,7 @@ $(window).load(function() {
   /**
    * Porfolio isotope and filter
    */
-  window.addEventListener('load', () => {
+  /*window.addEventListener('load', () => {
     let portfolioContainer = select('.portfolio-container');
     if (portfolioContainer) {
       let portfolioIsotope = new Isotope(portfolioContainer, {
@@ -230,7 +230,7 @@ $(window).load(function() {
       }, true);
     }
 
-  });
+  });*/
 
   /**
    * Initiate portfolio lightbox 
@@ -242,7 +242,7 @@ $(window).load(function() {
   /**
    * Portfolio details slider
    */
-  new Swiper('.portfolio-details-slider', {
+  /*new Swiper('.portfolio-details-slider', {
     speed: 400,
     loop: true,
     autoplay: {
@@ -254,7 +254,7 @@ $(window).load(function() {
       type: 'bullets',
       clickable: true
     }
-  });
+  });*/
 
   /**
    * Animation on scroll

@@ -1,0 +1,14 @@
+{
+  "devices": [
+    {
+      "img": "../assets/img/portfolio/a37f.jpg",
+      "title": "OPPO A37 / A37f / A37fw",
+      "codename": "A37f",
+      "details": {
+        "developer": "kristoforusapm",
+        "last_update": "07/10/2024",
+        "status": "active"
+      }
+    }
+  ]
+}

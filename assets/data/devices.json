@@ -1,0 +1,26 @@
+[
+  {
+    "img": "assets/img/portfolio/moonstone.png",
+    "name": "POCO X5 5G",
+    "codename": "moonstone",
+    "link": "devices/moonstone.html"
+  },
+  {
+    "img": "assets/img/portfolio/sunstone.jpg",
+    "name": "Redmi Note 12 5G",
+    "codename": "sunstone",
+    "link": "devices/sunstone.html"
+  },
+  {
+    "img": "assets/img/portfolio/a37f.jpg",
+    "name": "OPPO A37",
+    "codename": "A37f",
+    "link": "devices/a37f.html"
+  },
+  {
+    "img": "assets/img/portfolio/dream2lte.jpg",
+    "name": "Samsung S8+",
+    "codename": "dream2lte",
+    "link": "devices/dream2lte.html"
+  }
+]

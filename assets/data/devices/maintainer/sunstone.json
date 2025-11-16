@@ -1,0 +1,14 @@
+{
+  "devices": [
+    {
+      "img": "../assets/img/portfolio/sunstone.png",
+      "title": "Redmi Note 12 5G",
+      "codename": "sunstone",
+      "details": {
+        "developer": "skglab-dev",
+        "last_update": "07/10/2024",
+        "status": "active"
+      }
+    }
+  ]
+}

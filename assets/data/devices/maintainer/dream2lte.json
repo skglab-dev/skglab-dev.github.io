@@ -1,0 +1,14 @@
+{
+  "devices": [
+    {
+      "img": "../assets/img/portfolio/dream2lte.jpg",
+      "title": "Samsung S8+",
+      "codename": "dream2lte",
+      "details": {
+        "developer": "kristoforusapm",
+        "last_update": "07/10/2024",
+        "status": "active"
+      }
+    }
+  ]
+}
